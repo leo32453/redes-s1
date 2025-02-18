@@ -242,6 +242,6 @@ class ConexaoRDT:
 
         self.servidor.rede.enviar(segmento, dst_addr)
 
-        self.callback(self, b"")
+        # self.callback(self, b"")
 
         del self.servidor.conexoes[self.id_conexao]
