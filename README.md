@@ -1,3 +1,10 @@
+# Grupo
+Leo Rodrigues Aoki, 801926
+Gabriel Andreazi Bertho, 790780
+Lucas Silva Mendes, 800247
+Guilherme Salvador Escher, 792528
+Sebastiao Venancio Guimaraes Neto, 790850
+
 # Introdução
 
 Neste trabalho, vamos juntar todas as camadas que implementamos até agora e depois testar o funcionamento em uma rede física real!
