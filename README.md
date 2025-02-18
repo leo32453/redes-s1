@@ -1,8 +1,12 @@
 # Grupo
 Leo Rodrigues Aoki, 801926
+
 Gabriel Andreazi Bertho, 790780
+
 Lucas Silva Mendes, 800247
+
 Guilherme Salvador Escher, 792528
+
 Sebastiao Venancio Guimaraes Neto, 790850
 
 # Introdução
