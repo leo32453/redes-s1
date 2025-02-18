@@ -276,7 +276,7 @@ As duas coisas também podem acontecer ao mesmo tempo. Podemos receber, por exem
 def dados_recebidos(conexao, dados):
     # if dados == b'':
     #     return sair(conexao)
-    # print(conexao, dados)
+    print(conexao, dados)
     resposta = []
     if dados == b'':
         return sair(conexao)
